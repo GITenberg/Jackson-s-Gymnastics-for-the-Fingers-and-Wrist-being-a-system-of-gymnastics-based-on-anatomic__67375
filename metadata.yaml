@@ -1,0 +1,36 @@
+_repo: Jackson-s-Gymnastics-for-the-Fingers-and-Wrist-being-a-system-of-gymnastics-based-on-anatomic__67375
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Berndtson, Fredrik
+    birthdate: 1820
+    deathdate: 1881
+    gutenberg_agent_id: '31170'
+    url: http://www.gutenberg.org/2009/agents/31170
+creator:
+  author:
+    agent_name: Jackson, Edwin Ward
+    gutenberg_agent_id: '54236'
+    url: http://www.gutenberg.org/2009/agents/54236
+description: ''
+gutenberg_issued: '2022-02-11'
+identifiers:
+  gutenberg: '67375'
+language: en
+pgterms:marc904: https://archive.org/details/jacksonsgymnasti00jack/page/n9/mode/2up
+pgterms:marc905: 20200409121215jackson
+pgterms:marc906: '1864'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :N. TrÃ¼bner & Co.,1864,pubdate 1865.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jackson''s Gymnastics for the Fingers and Wrist: being a system of gymnastics,
+  based on anatomical principles, for developing and strengthening the muscles of
+  the hand for musical, mechanical and medical purposes: with thirty-seven diagrams'
+url: http://www.gutenberg.org/ebooks/67375
