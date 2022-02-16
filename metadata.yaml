@@ -7,12 +7,17 @@ contributor:
     deathdate: 1881
     gutenberg_agent_id: '31170'
     url: http://www.gutenberg.org/2009/agents/31170
+covers:
+- cover_type: archival
+  image_path: 67375-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, Edwin Ward
     gutenberg_agent_id: '54236'
     url: http://www.gutenberg.org/2009/agents/54236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67375#Jackson-s-Gymnastics-for-the-Fingers-and-Wrist-being-a-system-of-gymnastics-based-on-anatomic_
 gutenberg_issued: '2022-02-11'
 identifiers:
   gutenberg: '67375'
